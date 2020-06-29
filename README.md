@@ -20,7 +20,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://www.adina-wagner.com"><img src="https://avatars1.githubusercontent.com/u/29738718?v=4" width="100px;" alt=""/><br /><sub><b>Adina Wagner</b></sub></a><br /><a href="#ideas-adswa" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><img src="https://en.wikipedia.org/wiki/Wikipedia_talk:Image_use_policy/Archive_12#/media/File:Replace_this_image_female.svg" width="100px;" alt=""/><br /><sub><b>Someone Else</b></sub><br /><a href="#ideas" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/gunnar-b"><img src="https://avatars3.githubusercontent.com/u/52134678?v=4" width="100px;" alt=""/><br /><sub><b>gunnar-b</b></sub></a><br /><a href="https://github.com/adswa/myanalysis/commits?author=gunnar-b" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/gunnar-b"><img src="https://avatars3.githubusercontent.com/u/52134678?v=4" width="100px;" alt=""/><br /><sub><b>gunnar-b</b></sub></a><br /><a href="https://github.com/adswa/myanalysis/commits?author=gunnar-b" title="Code">💻</a> <a href="#infra-gunnar-b" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 
