@@ -20,6 +20,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "gunnar-b",
+      "name": "gunnar-b",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/52134678?v=4",
+      "profile": "https://github.com/gunnar-b",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
