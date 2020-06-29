@@ -36,6 +36,13 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "name": "unicorns",
+      "avatar_url": "https://unicornify.pictures/avatar/adina",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
