@@ -20,7 +20,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://www.adina-wagner.com"><img src="https://avatars1.githubusercontent.com/u/29738718?v=4" width="100px;" alt=""/><br /><sub><b>Adina Wagner</b></sub></a><br /><a href="#ideas-adswa" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><img src="https://github.com/identicons/someone.png" width="100px;" alt=""/><br /><sub><b>Someone Else</b></sub><br /><a href="#ideas" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/gunnar-b"><img src="https://avatars3.githubusercontent.com/u/52134678?v=4" width="100px;" alt=""/><br /><sub><b>gunnar-b</b></sub></a><br /><a href="https://github.com/adswa/myanalysis/commits?author=gunnar-b" title="Code">💻</a> <a href="#translation-gunnar-b" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/gunnar-b"><img src="https://avatars3.githubusercontent.com/u/52134678?v=4" width="100px;" alt=""/><br /><sub><b>gunnar-b</b></sub></a><br /><a href="https://github.com/adswa/myanalysis/commits?author=gunnar-b" title="Code">💻</a> <a href="#translation-gunnar-b" title="Translation">🌍</a> <a href="https://github.com/adswa/myanalysis/issues?q=author%3Agunnar-b" title="Bug reports">🐛</a></td>
     <td align="center"><img src="https://github.com/identicons/someone.png" width="100px;" alt=""/><br /><sub><b>Another One</b></sub><br /><a href="#translation" title="Translation">🌍</a></td>
   </tr>
 </table>
