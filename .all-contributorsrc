@@ -16,7 +16,7 @@
     },
     {
       "name": "Someone Else",
-      "avatar_url": "https://en.wikipehttps://github.com/identicons/someone.png",
+      "avatar_url": "https://github.com/identicons/someone.png",
       "contributions": [
         "ideas"
       ]
@@ -28,6 +28,13 @@
       "profile": "https://github.com/gunnar-b",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "name": "Another One",
+      "avatar_url": "https://github.com/identicons/someone.png",
+      "contributions": [
+        "translation"
       ]
     }
   ],
