@@ -1,4 +1,4 @@
 [submodule "input"]
 	path = input
-	url = git@github.com:datalad-handbook/iris_data.git
+	url = https://github.com/datalad-handbook/iris_data
 	datalad-id = 5800e71c-09f9-11ea-98f1-e86a64c8054c
